@@ -18,8 +18,18 @@ Checkout the git repository:
 git clone https://github.com/manquius/diplodatos_ayv.git
 ```
 
-Run 
+### Run 
 
 ```
 jupyter <your file>
+```
+
+Do your work on the file and save
+
+### commit and push 
+
+```
+git add <your file>
+git commit -m "<Describe what you have done>"
+git push
 ```
