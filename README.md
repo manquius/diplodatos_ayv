@@ -36,9 +36,9 @@ git push
 ### A Corregir:
 
   2. Distribuciones
-    - Vamos a tener que utilizar datos de un solo año. Tomar 2016, aplicar a todo el ejercicio.
-    - stats.kstest, quitar zscore, usar norm.fit para ajustar a normal
-    - correlation_spearmanr esta ok, quitar pearson.
+   - Vamos a tener que utilizar datos de un solo año. Tomar 2016, aplicar a todo el ejercicio.
+   - stats.kstest, quitar zscore, usar norm.fit para ajustar a normal
+   - correlation_spearmanr esta ok, quitar pearson.
 
  3.
    - Dar vuelta graficos de puntos.
